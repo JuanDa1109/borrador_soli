@@ -12,7 +12,20 @@
           "package_name": "com.example.borrador_soli"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "601819630927-kk3trvq3ab4v7pb36g972hfbp0hfdr6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.borrador_soli",
+            "certificate_hash": "4503aac3438f14b2d3d4a62ba2caaec622e030f6"
+          }
+        },
+        {
+          "client_id": "601819630927-0juef5g04mltcmbuj7j8cusf8u4ekbt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBYIKWPfqjHRuEbIfYi0HLGjLmb1bJ0gCU"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601819630927-0juef5g04mltcmbuj7j8cusf8u4ekbt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601819630927-c2llk5q45ljpaainbptgperc3p0s55jo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.borradorSoli.RunnerTests"
+              }
+            }
+          ]
         }
       }
     }

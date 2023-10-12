@@ -11,6 +11,7 @@ Future<void> main() async {
   FirebaseUIAuth.configureProviders([
     GoogleProvider(clientId: ""),
   ]);
+  runApp(const MainApp());
 }
 
 class MainApp extends StatelessWidget {
